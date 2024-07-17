@@ -1,7 +1,7 @@
 """
 Program counts file's lines excluding:
     Blank lines
-    docstrings
+    Single-line comments
 """
 import sys
 

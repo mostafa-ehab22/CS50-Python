@@ -11,7 +11,6 @@ def main():
         file_1 = sys.argv[1]
         file_2 = sys.argv[2]
 
-
         try:
             with open(file_1) as input_file, open(file_2, "w") as output_file:
                 reader = csv.DictReader(input_file)
@@ -37,7 +36,6 @@ def main():
 
         except FileNotFoundError:
             sys.exit(f"Could not read {file_1}")
-
 
 if __name__ == "__main__":
     main()

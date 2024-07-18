@@ -1,7 +1,7 @@
 """
 Program counts file's lines excluding:
     Blank lines
-    docstrings
+    Single-line comments
 """
 import sys
 
@@ -26,6 +26,7 @@ def main():
             with open(entry) as file:
                 for line in file:
                     stripped_line = line.strip()
+                    ## Not blank-line & Not single-line comment
                     if stripped_line and not stripped_line.startswith("#"):
                         lines_count += 1
             print(f"Lines count: {lines_count}")

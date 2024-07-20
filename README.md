@@ -1,6 +1,6 @@
  <div align=center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" height=250>
-    <p> 2022</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/800px-Harvard_University_coat_of_arms.svg.png" height=220>
+    <p> 2022 </p>
     <h1> CS50's Introduction to Programming with Python </h1>
 </div>
 

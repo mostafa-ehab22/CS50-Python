@@ -6,6 +6,17 @@
 
 #### This repository contains my solutions of problem sets and project for Harvard's CS50 Introduction to Programming with Python course, demonstrating various concepts learned throughout the course. 
 
+<br>
+<br>
+
+<div align=center>
+    <a href="https://cs50.harvard.edu/python/2022/">Course Link</a> || 
+    <a href="">Final Project</a> || 
+    <a href="">Certification</a> 
+</div>
+
+<br>
+
 ## Course Content:
 - **Variables, Conditionals & Loops:** Fundamental programming constructs to control the flow of the program.
 - **Functions:** Modular code design with reusable blocks of code.

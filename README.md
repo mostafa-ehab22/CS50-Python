@@ -12,9 +12,9 @@
 <div align=center>
     <a href="https://cs50.harvard.edu/python/2022/">Course</a> | 
     <a href="">Final Project</a> | 
-    <a href="">Certification</a> 
+    <a href="">Certification</a>
 </div>
-
+ 
 <br>
 
 ## Course Content:

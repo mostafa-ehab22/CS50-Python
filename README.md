@@ -4,7 +4,7 @@
     <h1> CS50's Introduction to Programming with Python </h1>
 </div>
 
-#### This repository contains my solutions of problem sets and project for Harvard's CS50 Introduction to Programming with Python course. Solutions demonstrate various concepts learned throughout the course. 
+#### This repository contains my solutions of problem sets and project for Harvard's CS50 Introduction to Programming with Python course, demonstrating various concepts learned throughout the course. 
 
 ### Course Content:
 - **Variables, Conditionals & Loops:** Fundamental programming constructs to control the flow of the program.

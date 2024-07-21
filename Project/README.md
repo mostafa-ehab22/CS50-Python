@@ -39,7 +39,7 @@ Item link: https://example.com/items
 Save folder path: C:\Users\YourUsername\Documents\items.csv
 ```
 
-### Example 
+### Output
 ```
 Item Name: Example Item
 Price: 1,234.56 EGP

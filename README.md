@@ -10,7 +10,8 @@
 <br>
 
 <div align=center>
-    <a href="https://cs50.harvard.edu/python/2022/">Course</a> |  
+    <a href="https://cs50.harvard.edu/python/2022/">Course</a> |
+    <a href="https://github.com/mostafa-ehab22/OLX-Web-Scraper">Final Project</a> |
     <a href="">Certification</a>
 </div>
  

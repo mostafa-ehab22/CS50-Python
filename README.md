@@ -25,5 +25,5 @@
 - **File I/O:** Reading from and writing to files using Python.
 - **Testing:** Writing unit tests to ensure code reliability and correctness using Pytest.
 - **Regular Expressions:** Techniques for pattern matching and text manipulation using Python's re module.
-- **Object-Oriented Programming (OOP):** Principles of Classes/Objects creating well-structured & maintainable code.
+- **Object-Oriented Programming (OOP):** Principles of Classes and Objects to create well-structured & maintainable code.
 - **Final Project:** A comprehensive project integrating multiple concepts learned throughout the course.

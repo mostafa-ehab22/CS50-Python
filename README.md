@@ -27,3 +27,7 @@
 - **Regular Expressions:** Techniques for pattern matching and text manipulation using Python's re module.
 - **Object-Oriented Programming (OOP):** Principles of Classes and Objects to create robust code.
 - **Final Project:** A comprehensive project integrating multiple concepts learned throughout the course.
+
+## ⚠️ Disclaimer  
+- Code is provided solely for educational purposes and should not be used or submitted as your own work.
+- Using this code to cheat violates academic integrity policies and undermines the learning process. It is essential to engage with the material honestly to truly learn and develop your programming skills.

@@ -12,7 +12,7 @@
 <div align=center>
     <a href="https://cs50.harvard.edu/python/2022/">Course</a> |
     <a href="https://github.com/mostafa-ehab22/OLX-Web-Scraper">Final Project</a> |
-    <a href="">Certification</a>
+    <a href="https://certificates.cs50.io/cf88d045-083e-4ee7-b51c-d5b447ea86dd.png?size=A4">Certification</a>
 </div>
  
 <br>

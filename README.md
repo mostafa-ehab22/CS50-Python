@@ -26,6 +26,7 @@
 - **Testing:** Writing unit tests to ensure code reliability and correctness using Pytest.
 - **Regular Expressions:** Techniques for pattern matching and text manipulation using Python's re module.
 - **Object-Oriented Programming (OOP):** Principles of Classes and Objects to create robust code.
+- **Advanced Python Syntax:** global, constants, type hints, mypy, peps.python.org, argparse, unpacking, map, comprehensions, filter, enumerate, generators, yield, and iterators.
 - **Final Project:** A comprehensive project integrating multiple concepts learned throughout the course.
 
 ## ⚠️ Disclaimer  
